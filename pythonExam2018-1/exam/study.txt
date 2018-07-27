@@ -20,5 +20,6 @@ conda install -n "python3" numpy
 
 
 
-# 맥 유저나 혹은 윈도우 유저의 다른 접근법은 터미널에서
-• jupyter notebook 이라고 입력
+# 주피터 노트북 
+• jupyter notebook 이라고 입력  ->  ipynb 확장자 실
+

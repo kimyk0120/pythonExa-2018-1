@@ -5,8 +5,8 @@ conda info --envs
 
 
 #  activate ----- 활성화 -----
-Linux, OsX : source activate python3
-windows : activate python3
+Linux, OsX : source activate env명
+windows : activate python3 env명
 
 # -----비활성화-----
 Linux, OsX : source deactivate
@@ -16,7 +16,7 @@ windows : deactivate
 
 # 이미 생성한 가상환경에 패키지 추가 설치
 가상환경을 생성시에 설치하고 싶은 패키지를 선택할 수 있지만, 이미 생성된 가상환경에 추가로 패키지를 설치하고 싶다면 다음과 같이 하면 됩니다.
-conda install -n "python3" numpy
+conda install -n "env명" numpy
 
 
 

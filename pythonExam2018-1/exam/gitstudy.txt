@@ -1,0 +1,103 @@
+
+$ git init
+
+깃 저장소 만들기
+
+---
+
+
+$ git add *.c
+$ git add README
+
+깃 add index( 커밋전 스테이징)
+
+---
+
+
+
+$ git commit -m 'initial project version'
+
+깃 커밋 with 메세지
+
+
+---
+
+
+$ git remote
+
+깃 리모트 (저장소) 확인
+
+
+---
+
+
+$ git branch
+
+깃 브랜치(가지) 확인
+
+
+
+---
+
+
+$ git push remote명 branch명
+
+저장소로 푸쉬
+
+
+---
+
+
+$ git clone git://github.com/schacon/grit.git
+
+기존 저장소를 Clone하기
+
+
+
+---
+
+
+$ git status
+
+
+파일의 상태 확인하기
+
+
+
+---
+
+
+
+$ git diff
+
+git diff 명령을 실행하면 수정했지만 아직 staged 상태가 아닌 파일을 비교해 볼 수 있다:
+
+
+
+---
+
+
+$ git log
+
+커밋 히스토리 조회하기
+
+
+
+---
+
+
+$ gitk
+
+GUI 도구로 히스토리를 시각화하기
+git log 명령을 시각화해주는 도구
+
+
+
+
+---
+
+
+
+
+
+

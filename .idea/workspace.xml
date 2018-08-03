@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57187409-e674-452f-bce5-f013a5117882" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonExam2018-1/exam/gitstudy.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExam2018-1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gitstudy.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gitstudy.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonExam2018-1/exam/gitstudy.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="88" column="6" lean-forward="true" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -51,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/pythonExam2018-1/exam/study.txt" />
         <option value="$PROJECT_DIR$/pythonExam2018-1/exam/gitstudy.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -80,40 +90,6 @@
               <item name="pythonExa-2018-1" type="462c0819:PsiDirectoryNode" />
               <item name="pythonExam2018-1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pythonExa-2018-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExa-2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonExam2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonExa-2018-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExa-2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonExam2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="패스트캠퍼스_강의자료_day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonExa-2018-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExa-2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonExam2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="패스트캠퍼스_강의자료_day1" type="462c0819:PsiDirectoryNode" />
-              <item name="[패스트캠퍼스] 파이썬을 활용한 실전 웹크롤링 Week1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonExa-2018-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExa-2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonExam2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="패스트캠퍼스_강의자료_day1" type="462c0819:PsiDirectoryNode" />
-              <item name="[패스트캠퍼스] 파이썬을 활용한 실전 웹크롤링 Week1" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonExa-2018-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExa-2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonExam2018-1" type="462c0819:PsiDirectoryNode" />
-              <item name="패스트캠퍼스_강의자료_day1" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬을 활용한 데이터분석 입문" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -129,6 +105,7 @@
       <recent name="$PROJECT_DIR$/pythonExam2018-1/exam" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pythonExam2018-1/exam" />
     </key>
   </component>
@@ -241,6 +218,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="88" column="6" lean-forward="true" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>

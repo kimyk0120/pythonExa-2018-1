@@ -20,6 +20,10 @@ conda install -n "env명" numpy
 
 
 
-# 주피터 노트북 
+# 주피터 노트북 (파이썬 브라우저 툴, 아나콘다에 포함되어있음)
 • jupyter notebook 이라고 입력  ->  ipynb 확장자 실
+   jt -l
+    ->테마리스트
+   jt -t 테마명
+     ->테마 설정
 

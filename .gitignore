@@ -7,6 +7,5 @@
 /build/
 /bower_components/
 /src/main/webapp/lib/
-/workspace.xml
- .idea/workspace.xml
+.idea/workspace.xml
 

@@ -4,3 +4,7 @@ result = 11//6
 print(result)
 result = 11%6
 print(result)
+
+print("test")
+print("test")
+
